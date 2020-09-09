@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table><tr><td valign="top">
+
+### Recent releases
+<!-- releases starts -->
+* Initial blank.
+<!-- releases ends -->
+</td><td valign="top">
+
+### Recent fiction
+<!-- fiction starts -->
+* Initial blank.
+<!-- fiction ends -->
+
+More fiction at [eldraeverse.com](https://eldraeverse.com/)
+</td><td valign="top">
+
+The code used to make the above table is a shameless, shameless ripoff of that used in https://github.com/simonw/simonw/ .
