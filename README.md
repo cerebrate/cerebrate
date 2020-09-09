@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
-</td><td valign="top">
+</td></tr></table>
 
 The code used to make the above table is a shameless, shameless ripoff of that used in https://github.com/simonw/simonw/ .
