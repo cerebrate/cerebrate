@@ -1,19 +1,23 @@
 ### Hi there 👋
 
-<!--
-**cerebrate/cerebrate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alistair Young, a hacker (primarily working with C# and python, along with home automation using CircuitPython and Arduino), maker, and science fiction writer originally from the UK, but now of Wichita, KS.
 
-Here are some ideas to get you started:
+[![Alistair's github stats](https://github-readme-stats.vercel.app/api?username=cerebrate&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Below, you'll find examples of both aspects of my work in the form of recent releases and fiction pieces from my blog, but most popular among my work, you'll find:
+
+#### :desktop_computer: This software
+
+* [genie](https://github.com/arkane-systems/genie) - run systemd under WSL 2
+* [Mouse Jiggler](https://github.com/cerebrate/mousejiggler) - exactly what it says on the tin
+
+#### :books: And these books...
+
+* [Vignettes of the Star Empire](https://www.amazon.com/gp/product/B00A2X4QQO/) (Tales of the Associated Worlds #1)
+* [The Core War and Other Stories](https://www.amazon.com/gp/product/B00VSM9NNE/) (Tales of the Associated Worlds #2)
+* [Darkness Within and Other Stories](https://www.amazon.com/gp/product/B082HC8JRQ/) (Tales of the Associated Worlds #3)
+
+I hope you enjoy whichever you came here for! Incidentally, I also do freelance development from time to time; feel free to contact me (at avatar@arkane-systems.net) if you need some work done!
 
 <table><tr><td valign="top">
 
