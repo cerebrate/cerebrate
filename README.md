@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Sniffers](https://eldraeverse.com/2020/09/15/sniffers/) - 2020-09-15
 * [O, What a Tangled Web](https://eldraeverse.com/2020/08/31/o-what-a-tangled-web/) - 2020-09-01
 * [It&#8217;s The Thoughts That Count](https://eldraeverse.com/2020/08/29/its-the-thoughts-that-count/) - 2020-08-29
 * [Twelve Random Definitions](https://eldraeverse.com/2020/08/28/twelve-random-definitions/) - 2020-08-28
 * [I Appear To Have A Problem With My Brain Being Missing](https://eldraeverse.com/2020/08/27/i-appear-to-have-a-problem-with-my-brain-being-missing/) - 2020-08-28
-* [Truth in Nomenclature (2)](https://eldraeverse.com/2020/08/17/truth-in-nomenclature-2/) - 2020-08-17
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
