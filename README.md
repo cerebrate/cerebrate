@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Eldraeic Word of the Day: cagshálvéth](https://eldraeverse.com/2020/10/08/eldraeic-word-of-the-day-cagshalveth/) - 2020-10-08
 * [Safety First](https://eldraeverse.com/2020/10/06/safety-first/) - 2020-10-06
 * [Continuity](https://eldraeverse.com/2020/10/04/continuity/) - 2020-10-04
 * [Lactic Revolutionary Front](https://eldraeverse.com/2020/10/03/lactic-revolutionary-front/) - 2020-10-03
 * [For Gold, Bright Gold, Is Master of Sophs All&#8230;](https://eldraeverse.com/2020/09/30/for-gold-bright-gold-is-master-of-sophs-all/) - 2020-09-30
-* [Less Than Nothing](https://eldraeverse.com/2020/09/29/less-than-nothing/) - 2020-09-29
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
