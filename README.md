@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [As She Is Spoke](https://eldraeverse.com/2020/10/10/as-she-is-spoke/) - 2020-10-10
 * [Steenkin&#8217; Badges](https://eldraeverse.com/2020/10/09/steenkin-badges/) - 2020-10-09
 * [Eldraeic Word of the Day: cagshálvéth](https://eldraeverse.com/2020/10/08/eldraeic-word-of-the-day-cagshalveth/) - 2020-10-08
 * [Safety First](https://eldraeverse.com/2020/10/06/safety-first/) - 2020-10-06
 * [Continuity](https://eldraeverse.com/2020/10/04/continuity/) - 2020-10-04
-* [Lactic Revolutionary Front](https://eldraeverse.com/2020/10/03/lactic-revolutionary-front/) - 2020-10-03
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
