@@ -33,7 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
-
+* [Here Is There](https://eldraeverse.com/2020/10/22/here-is-there/) - 2020-10-23
+* [The Seal of Quality](https://eldraeverse.com/2020/10/15/the-seal-of-quality-2/) - 2020-10-15
+* [Wakey, Wakey](https://eldraeverse.com/2020/10/11/wakey-wakey/) - 2020-10-12
+* [As She Is Spoke](https://eldraeverse.com/2020/10/10/as-she-is-spoke/) - 2020-10-10
+* [Steenkin&#8217; Badges](https://eldraeverse.com/2020/10/09/steenkin-badges/) - 2020-10-09
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
