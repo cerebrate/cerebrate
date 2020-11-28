@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Laager](https://eldraeverse.com/2020/11/27/laager/) - 2020-11-28
 * [Contracervisial](https://eldraeverse.com/2020/11/15/contracervisial/) - 2020-11-15
 * [Conspiracy Theory](https://eldraeverse.com/2020/11/04/conspiracy-theory/) - 2020-11-04
 * [Here Is There](https://eldraeverse.com/2020/10/22/here-is-there/) - 2020-10-23
 * [The Seal of Quality](https://eldraeverse.com/2020/10/15/the-seal-of-quality-2/) - 2020-10-15
-* [Wakey, Wakey](https://eldraeverse.com/2020/10/11/wakey-wakey/) - 2020-10-12
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
