@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Anywhere, Anytime, Anything](https://eldraeverse.com/2020/11/30/anywhere-anytime-anything/) - 2020-11-30
 * [A Little Too Smart](https://eldraeverse.com/2020/11/29/a-little-too-smart/) - 2020-11-29
 * [Eldraeic Words of the Freedom](https://eldraeverse.com/2020/11/28/eldraeic-words-of-the-freedom/) - 2020-11-28
 * [Laager](https://eldraeverse.com/2020/11/27/laager/) - 2020-11-28
 * [Contracervisial](https://eldraeverse.com/2020/11/15/contracervisial/) - 2020-11-15
-* [Conspiracy Theory](https://eldraeverse.com/2020/11/04/conspiracy-theory/) - 2020-11-04
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
