@@ -23,7 +23,7 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent releases
 <!-- releases starts -->
-* [genie 1.29 - machinectl and logon edition](https://github.com/arkane-systems/genie/releases/tag/1.29) - 2020-12-19
+* [genie 1.30 - path-cloning edition](https://github.com/arkane-systems/genie/releases/tag/1.30) - 2020-12-27
 * [mousejiggler 1.8.35](https://github.com/cerebrate/mousejiggler/releases/tag/1.8.35) - 2020-05-17
 * [dockercmd 0.1 initial release](https://github.com/cerebrate/dockercmd/releases/tag/v0.1) - 2019-05-10
 * [dogtector 1.0 - first production version](https://github.com/cerebrate/dogtector/releases/tag/1.0) - 2017-02-04
