@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [The Heat of Battle](https://eldraeverse.com/2021/01/11/the-heat-of-battle/) - 2021-01-12
 * [Essential Services](https://eldraeverse.com/2021/01/08/essential-services/) - 2021-01-08
 * [Copier Humor](https://eldraeverse.com/2020/12/31/copier-humor/) - 2020-12-31
 * [Winds of Winter](https://eldraeverse.com/2020/12/30/winds-of-winter/) - 2020-12-31
 * [Worldbuilding: Theory of Mind](https://eldraeverse.com/2020/12/18/worldbuilding-theory-of-mind/) - 2020-12-18
-* [Macrophage](https://eldraeverse.com/2020/12/16/macrophage/) - 2020-12-16
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
