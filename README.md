@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Not Even Wrong](https://eldraeverse.com/2021/02/06/not-even-wrong/) - 2021-02-06
 * [Things to See, Places (Not) To Go (14)](https://eldraeverse.com/2021/02/04/things-to-see-places-not-to-go-14/) - 2021-02-04
 * [Another View From Outside](https://eldraeverse.com/2021/01/27/another-view-from-outside/) - 2021-01-27
 * [Atomic Goblet!](https://eldraeverse.com/2021/01/27/atomic-goblet/) - 2021-01-27
 * [Tech Disparities](https://eldraeverse.com/2021/01/24/tech-disparities/) - 2021-01-25
-* [Words That Can Hurt You](https://eldraeverse.com/2021/01/19/words-that-can-hurt-you/) - 2021-01-19
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
