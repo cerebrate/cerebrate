@@ -24,7 +24,7 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 ### Recent releases
 <!-- releases starts -->
 * [genie 1.35 - new build system edition](https://github.com/arkane-systems/genie/releases/tag/v1.35) - 2021-02-23
-* [mousejiggler 2.0.14](https://github.com/cerebrate/mousejiggler/releases/tag/2.0.14) - 2021-01-26
+* [mousejiggler 2.0.14](https://github.com/cerebrate/mousejiggler/releases/tag/v2.0.14) - 2021-01-26
 * [dockercmd 0.1 initial release](https://github.com/cerebrate/dockercmd/releases/tag/v0.1) - 2019-05-10
 * [dogtector 1.0 - first production version](https://github.com/cerebrate/dogtector/releases/tag/1.0) - 2017-02-04
 * [wabash 0.6.4 (daemon 4)](https://github.com/cerebrate/wabash/releases/tag/0.6.4) - 2016-10-31
