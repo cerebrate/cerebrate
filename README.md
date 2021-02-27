@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Vaccination](https://eldraeverse.com/2021/02/27/vaccination/) - 2021-02-27
 * [Odd One Out](https://eldraeverse.com/2021/02/26/odd-one-out/) - 2021-02-26
 * [May Contain Nuts](https://eldraeverse.com/2021/02/14/may-contain-nuts/) - 2021-02-14
 * [Not Even Wrong](https://eldraeverse.com/2021/02/06/not-even-wrong/) - 2021-02-06
 * [Things to See, Places (Not) To Go (14)](https://eldraeverse.com/2021/02/04/things-to-see-places-not-to-go-14/) - 2021-02-04
-* [Another View From Outside](https://eldraeverse.com/2021/01/27/another-view-from-outside/) - 2021-01-27
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
