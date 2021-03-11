@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [The Emperor&#8217;s Sword: Organization](https://eldraeverse.com/2021/03/11/the-emperors-sword-organization/) - 2021-03-11
 * [Nihilism Engineering](https://eldraeverse.com/2021/03/03/nihilism-engineering/) - 2021-03-03
 * [Vaccination](https://eldraeverse.com/2021/02/27/vaccination/) - 2021-02-27
 * [Odd One Out](https://eldraeverse.com/2021/02/26/odd-one-out/) - 2021-02-26
 * [May Contain Nuts](https://eldraeverse.com/2021/02/14/may-contain-nuts/) - 2021-02-14
-* [Not Even Wrong](https://eldraeverse.com/2021/02/06/not-even-wrong/) - 2021-02-06
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
