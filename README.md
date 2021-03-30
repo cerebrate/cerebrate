@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Neither Fish Nor Fowl](https://eldraeverse.com/2021/03/30/neither-fish-nor-fowl/) - 2021-03-30
 * [Bottled Sunlight](https://eldraeverse.com/2021/03/29/bottled-sunlight/) - 2021-03-30
 * [Wibbly-Wobbly](https://eldraeverse.com/2021/03/27/wibbly-wobbly/) - 2021-03-27
 * [Shielding and Shielding](https://eldraeverse.com/2021/03/20/shielding-and-shielding/) - 2021-03-20
 * [Better Alternative](https://eldraeverse.com/2021/03/18/better-alternative/) - 2021-03-19
-* [Solvable Problems](https://eldraeverse.com/2021/03/17/solvable-problems/) - 2021-03-18
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
