@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Beneath Their Wings](https://eldraeverse.com/2021/05/06/beneath-their-wings/) - 2021-05-06
 * [Force Not Required](https://eldraeverse.com/2021/05/06/force-not-required/) - 2021-05-06
 * [Time Travelers Strictly Crypto](https://eldraeverse.com/2021/04/29/time-travelers-strictly-crypto/) - 2021-04-30
 * [Squishy](https://eldraeverse.com/2021/04/29/squishy-2/) - 2021-04-29
 * [Author on Authority](https://eldraeverse.com/2021/04/07/author-on-authority/) - 2021-04-07
-* [Nemo Me Impune Lacessit](https://eldraeverse.com/2021/03/30/nemo-me-impune-lacessit/) - 2021-03-30
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
