@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [The Spice Way](https://eldraeverse.com/2021/05/12/the-spice-way/) - 2021-05-12
 * [Recommendation: Starmoth](https://eldraeverse.com/2021/05/10/recommendation-starmoth/) - 2021-05-10
 * [Friendly Stab](https://eldraeverse.com/2021/05/09/friendly-stab/) - 2021-05-09
 * [Beneath Their Wings](https://eldraeverse.com/2021/05/06/beneath-their-wings/) - 2021-05-06
 * [Force Not Required](https://eldraeverse.com/2021/05/06/force-not-required/) - 2021-05-06
-* [Time Travelers Strictly Crypto](https://eldraeverse.com/2021/04/29/time-travelers-strictly-crypto/) - 2021-04-30
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
