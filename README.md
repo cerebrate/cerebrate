@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Imperial Navy Rank Insignia](https://eldraeverse.com/2021/05/31/imperial-navy-rank-insignia/) - 2021-05-31
 * [Today&#8217;s Quotations](https://eldraeverse.com/2021/05/27/todays-quotations/) - 2021-05-27
 * [The Associated Worlds](https://eldraeverse.com/2021/05/12/the-associated-worlds/) - 2021-05-12
 * [The Spice Way](https://eldraeverse.com/2021/05/12/the-spice-way/) - 2021-05-12
 * [Recommendation: Starmoth](https://eldraeverse.com/2021/05/10/recommendation-starmoth/) - 2021-05-10
-* [Friendly Stab](https://eldraeverse.com/2021/05/09/friendly-stab/) - 2021-05-09
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
