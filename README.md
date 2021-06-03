@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Ceiling Probe Is Watching You](https://eldraeverse.com/2021/06/03/ceiling-probe-is-watching-you/) - 2021-06-03
 * [Purity Of Essence](https://eldraeverse.com/2021/05/31/purity-of-essence/) - 2021-06-01
 * [Imperial Navy Rank Insignia](https://eldraeverse.com/2021/05/31/imperial-navy-rank-insignia/) - 2021-05-31
 * [Today&#8217;s Quotations](https://eldraeverse.com/2021/05/27/todays-quotations/) - 2021-05-27
 * [The Associated Worlds](https://eldraeverse.com/2021/05/12/the-associated-worlds/) - 2021-05-12
-* [The Spice Way](https://eldraeverse.com/2021/05/12/the-spice-way/) - 2021-05-12
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
