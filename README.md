@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Curiously Enough, This Came Before Software](https://eldraeverse.com/2021/06/18/curiously-enough-this-came-before-software/) - 2021-06-18
 * [Transfragging](https://eldraeverse.com/2021/06/16/transfragging/) - 2021-06-16
 * [Not-Earth](https://eldraeverse.com/2021/06/09/not-earth/) - 2021-06-09
 * [High-Trust Society](https://eldraeverse.com/2021/06/07/high-trust-society/) - 2021-06-07
 * [Ceiling Probe Is Watching You](https://eldraeverse.com/2021/06/03/ceiling-probe-is-watching-you/) - 2021-06-03
-* [Purity Of Essence](https://eldraeverse.com/2021/05/31/purity-of-essence/) - 2021-06-01
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
