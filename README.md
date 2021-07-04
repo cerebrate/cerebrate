@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Bottling Up](https://eldraeverse.com/2021/07/04/bottling-up/) - 2021-07-04
 * [Eight Hells (1/2)](https://eldraeverse.com/2021/07/03/eight-hells-1-2/) - 2021-07-04
 * [Girls In Red Cloaks Beware](https://eldraeverse.com/2021/06/19/girls-in-red-cloaks-beware/) - 2021-06-19
 * [Curiously Enough, This Came Before Software](https://eldraeverse.com/2021/06/18/curiously-enough-this-came-before-software/) - 2021-06-18
 * [Transfragging](https://eldraeverse.com/2021/06/16/transfragging/) - 2021-06-16
-* [Not-Earth](https://eldraeverse.com/2021/06/09/not-earth/) - 2021-06-09
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
