@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Eight Hells (2/4?)](https://eldraeverse.com/2021/07/27/eight-hells-2-4/) - 2021-07-27
 * [Constabular Ranks](https://eldraeverse.com/2021/07/24/constabular-ranks/) - 2021-07-24
 * [The Vigilant](https://eldraeverse.com/2021/07/24/the-vigilant/) - 2021-07-24
 * [Iterating the Eschaton](https://eldraeverse.com/2021/07/23/iterating-the-eschaton/) - 2021-07-23
 * [Aperture Linguistics](https://eldraeverse.com/2021/07/05/aperture-linguistics/) - 2021-07-06
-* [Bottling Up](https://eldraeverse.com/2021/07/04/bottling-up/) - 2021-07-04
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
