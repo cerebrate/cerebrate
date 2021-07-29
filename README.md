@@ -23,8 +23,8 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent releases
 <!-- releases starts -->
+* [genie 1.43 - minor bugfix edition](https://github.com/arkane-systems/genie/releases/tag/v1.43) - 2021-07-29
 * [jupyterlab First @cerebrate version](https://github.com/cerebrate/jupyterlab/releases/tag/v0.1) - 2021-07-28
-* [genie 1.42 - mo' problems, mo' fixes](https://github.com/arkane-systems/genie/releases/tag/v1.42) - 2021-05-13
 * [mousejiggler 2.0.25](https://github.com/arkane-systems/mousejiggler/releases/tag/2.0.25) - 2021-04-08
 * [dockercmd 0.1 initial release](https://github.com/arkane-systems/dockercmd/releases/tag/v0.1) - 2019-05-10
 * [dogtector 1.0 - first production version](https://github.com/cerebrate/dogtector/releases/tag/1.0) - 2017-02-04
