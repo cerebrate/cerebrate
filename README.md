@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [When The Guns Fall Silent](https://eldraeverse.com/2021/08/01/when-the-guns-fall-silent/) - 2021-08-02
 * [Invisible Ledger](https://eldraeverse.com/2021/08/01/invisible-ledger/) - 2021-08-02
 * [Eight Hells (2/4?)](https://eldraeverse.com/2021/07/27/eight-hells-2-4/) - 2021-07-27
 * [Constabular Ranks](https://eldraeverse.com/2021/07/24/constabular-ranks/) - 2021-07-24
 * [The Vigilant](https://eldraeverse.com/2021/07/24/the-vigilant/) - 2021-07-24
-* [Iterating the Eschaton](https://eldraeverse.com/2021/07/23/iterating-the-eschaton/) - 2021-07-23
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
