@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [A Cure As Epidemic](https://eldraeverse.com/2021/08/12/a-cure-as-epidemic/) - 2021-08-12
 * [Let&#8217;s Break It Down](https://eldraeverse.com/2021/08/04/lets-break-it-down/) - 2021-08-04
 * [When The Guns Fall Silent](https://eldraeverse.com/2021/08/01/when-the-guns-fall-silent/) - 2021-08-02
 * [Invisible Ledger](https://eldraeverse.com/2021/08/01/invisible-ledger/) - 2021-08-02
 * [Eight Hells (2/4?)](https://eldraeverse.com/2021/07/27/eight-hells-2-4/) - 2021-07-27
-* [Constabular Ranks](https://eldraeverse.com/2021/07/24/constabular-ranks/) - 2021-07-24
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
