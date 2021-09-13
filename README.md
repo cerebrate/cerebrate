@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Some Professions](https://eldraeverse.com/2021/09/12/some-professions/) - 2021-09-13
 * [Eldraeic Word of the Day: méshválar](https://eldraeverse.com/2021/08/17/eldraeic-word-of-the-day-meshvalar/) - 2021-08-18
 * [Time Bomb](https://eldraeverse.com/2021/08/17/time-bomb/) - 2021-08-17
 * [On Preextant Properties](https://eldraeverse.com/2021/08/14/on-preextant-properties/) - 2021-08-14
 * [A Cure As Epidemic](https://eldraeverse.com/2021/08/12/a-cure-as-epidemic/) - 2021-08-12
-* [Let&#8217;s Break It Down](https://eldraeverse.com/2021/08/04/lets-break-it-down/) - 2021-08-04
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
