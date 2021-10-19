@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [The Glittering Web](https://eldraeverse.com/2021/10/19/the-glittering-web/) - 2021-10-19
 * [Thematics: Delicious Ideals](https://eldraeverse.com/2021/10/16/thematics-delicious-ideals/) - 2021-10-16
 * [Infrared Emission, Too](https://eldraeverse.com/2021/10/13/infrared-emission-too/) - 2021-10-14
 * [Blood Included](https://eldraeverse.com/2021/10/02/blood-included/) - 2021-10-03
 * [Things to See, Places to Go (12)](https://eldraeverse.com/2021/09/30/things-to-see-places-to-go-12/) - 2021-10-01
-* [Lunch Is On Me](https://eldraeverse.com/2021/09/30/lunch-is-on-me/) - 2021-09-30
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
