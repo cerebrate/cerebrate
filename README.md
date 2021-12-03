@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Haz Beans](https://eldraeverse.com/2021/12/03/haz-beans/) - 2021-12-03
 * [Selectivity](https://eldraeverse.com/2021/11/17/selectivity/) - 2021-11-17
 * [Give Way](https://eldraeverse.com/2021/11/06/give-way/) - 2021-11-06
 * [They Also Sell Anti-Shame Drugs](https://eldraeverse.com/2021/11/04/they-also-sell-anti-shame-drugs/) - 2021-11-04
 * [Induced Startup Dysphoria](https://eldraeverse.com/2021/11/04/induced-startup-dysphoria/) - 2021-11-04
-* [Parallelism](https://eldraeverse.com/2021/10/20/parallelism/) - 2021-10-20
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
