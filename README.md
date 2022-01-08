@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Praxis](https://eldraeverse.com/2022/01/08/30013/) - 2022-01-08
 * [Following The Money](https://eldraeverse.com/2021/12/30/following-the-money/) - 2021-12-30
 * [Haz Beans](https://eldraeverse.com/2021/12/03/haz-beans/) - 2021-12-03
 * [Selectivity](https://eldraeverse.com/2021/11/17/selectivity/) - 2021-11-17
 * [Give Way](https://eldraeverse.com/2021/11/06/give-way/) - 2021-11-06
-* [They Also Sell Anti-Shame Drugs](https://eldraeverse.com/2021/11/04/they-also-sell-anti-shame-drugs/) - 2021-11-04
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
