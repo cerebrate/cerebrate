@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Give It Time](https://eldraeverse.com/2022/01/27/give-it-time/) - 2022-01-27
 * [Shell Game](https://eldraeverse.com/2022/01/22/shell-game/) - 2022-01-22
 * [Intellect Property](https://eldraeverse.com/2022/01/20/intellect-property/) - 2022-01-20
 * [Hustle](https://eldraeverse.com/2022/01/18/hustle/) - 2022-01-19
 * [Praxis](https://eldraeverse.com/2022/01/08/30013/) - 2022-01-08
-* [Following The Money](https://eldraeverse.com/2021/12/30/following-the-money/) - 2021-12-30
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
