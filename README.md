@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Undistress (1)](https://eldraeverse.com/2022/02/17/undistress-1/) - 2022-02-18
 * [Learn To Live With Them](https://eldraeverse.com/2022/02/14/learn-to-live-with-them/) - 2022-02-14
 * [Better Than Vacuum](https://eldraeverse.com/2022/02/05/better-than-vacuum/) - 2022-02-05
 * [First Factor](https://eldraeverse.com/2022/01/30/first-factor/) - 2022-01-30
 * [Give It Time](https://eldraeverse.com/2022/01/27/give-it-time/) - 2022-01-27
-* [Shell Game](https://eldraeverse.com/2022/01/22/shell-game/) - 2022-01-22
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
