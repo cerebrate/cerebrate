@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Necessity](https://eldraeverse.com/2022/03/08/necessity/) - 2022-03-08
 * [Remove Yon Oaf](https://eldraeverse.com/2022/03/03/remove-yon-oaf/) - 2022-03-03
 * [Discarding Embers](https://eldraeverse.com/2022/03/02/discarding-embers/) - 2022-03-02
 * [How I Met Your Mother](https://eldraeverse.com/2022/02/28/how-i-met-your-mother/) - 2022-02-28
 * [Air Wings Sold Separately](https://eldraeverse.com/2022/02/24/air-wings-sold-separately/) - 2022-02-24
-* [Undistress (1)](https://eldraeverse.com/2022/02/17/undistress-1/) - 2022-02-18
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
