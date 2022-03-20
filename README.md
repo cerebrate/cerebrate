@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Eldraeic Word of the Day: anála](https://eldraeverse.com/2022/03/20/eldraeic-word-of-the-day-anala/) - 2022-03-20
 * [Not Somewhere We Need To Go](https://eldraeverse.com/2022/03/12/not-somewhere-we-need-to-go/) - 2022-03-12
 * [Things to See, Places (Not) To Go (15)](https://eldraeverse.com/2022/03/10/things-to-see-places-not-to-go-15/) - 2022-03-10
 * [Necessity](https://eldraeverse.com/2022/03/08/necessity/) - 2022-03-08
 * [Remove Yon Oaf](https://eldraeverse.com/2022/03/03/remove-yon-oaf/) - 2022-03-03
-* [Discarding Embers](https://eldraeverse.com/2022/03/02/discarding-embers/) - 2022-03-02
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
