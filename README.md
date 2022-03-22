@@ -23,7 +23,7 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent releases
 <!-- releases starts -->
-* [genie v2.2 - Continue the Struggle edition](https://github.com/arkane-systems/genie/releases/tag/v2.2) - 2022-03-06
+* [genie v2.3 - ARMed and Dangerous edition](https://github.com/arkane-systems/genie/releases/tag/v2.3) - 2022-03-22
 * [notify_mqtt 0.1.1 - fixed for current HA version (2021.12)](https://github.com/cerebrate/notify_mqtt/releases/tag/0.1.1) - 2022-01-06
 * [jupyterlab First @cerebrate version](https://github.com/cerebrate/jupyterlab/releases/tag/v0.1) - 2021-07-28
 * [mousejiggler 2.0.25](https://github.com/arkane-systems/mousejiggler/releases/tag/2.0.25) - 2021-04-08
