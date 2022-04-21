@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [To The Unknown God](https://eldraeverse.com/2022/04/21/to-the-unknown-god/) - 2022-04-21
 * [Undistress (2)](https://eldraeverse.com/2022/04/19/undistress-2/) - 2022-04-20
 * [NOTSPC](https://eldraeverse.com/2022/03/21/notspc/) - 2022-03-22
 * [Memetic Waste Disposal](https://eldraeverse.com/2022/03/20/memetic-waste-disposal/) - 2022-03-20
 * [Eldraeic Word of the Day: anála](https://eldraeverse.com/2022/03/20/eldraeic-word-of-the-day-anala/) - 2022-03-20
-* [Not Somewhere We Need To Go](https://eldraeverse.com/2022/03/12/not-somewhere-we-need-to-go/) - 2022-03-12
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
