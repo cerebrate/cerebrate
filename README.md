@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Awkward Introductions](https://eldraeverse.com/2022/05/20/awkward-introductions/) - 2022-05-21
 * [Diggers](https://eldraeverse.com/2022/05/20/diggers/) - 2022-05-20
 * [Eldraeic Phrase of the Day: cla-elén bríäz jé elén duenissí](https://eldraeverse.com/2022/05/16/eldraeic-phrase-of-the-day-cla-elen-briaz-je-elen-duenissi/) - 2022-05-16
 * [Six Renegades from Eliéra](https://eldraeverse.com/2022/05/15/six-renegades-from-eliera/) - 2022-05-15
 * [Eldraeic Word of the Day: ulargydar](https://eldraeverse.com/2022/05/14/eldraeic-word-of-the-day-ulargydar/) - 2022-05-15
-* [Eldraeic Word of the Day: kaälath](https://eldraeverse.com/2022/05/14/eldraeic-word-of-the-day-kaalath/) - 2022-05-15
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
