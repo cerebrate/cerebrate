@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Spicy!](https://eldraeverse.com/2022/07/10/spicy/) - 2022-07-10
 * [Career Limiters](https://eldraeverse.com/2022/07/09/career-limiters/) - 2022-07-10
 * [Keyless](https://eldraeverse.com/2022/06/28/keyless/) - 2022-06-29
 * [Translation Difficulties](https://eldraeverse.com/2022/06/22/translation-difficulties/) - 2022-06-22
 * [Paperclip Maximizer](https://eldraeverse.com/2022/06/10/paperclip-maximizer/) - 2022-06-10
-* [Snippet: Today, at the Vector](https://eldraeverse.com/2022/06/07/snippet-today-at-the-vector/) - 2022-06-07
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
