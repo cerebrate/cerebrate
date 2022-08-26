@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Feets of Arms](https://eldraeverse.com/2022/08/26/feets-of-arms/) - 2022-08-26
 * [Guns Are People](https://eldraeverse.com/2022/08/24/guns-are-people/) - 2022-08-24
 * [Undistress (3)](https://eldraeverse.com/2022/08/21/undistress-3/) - 2022-08-21
 * [What a Half-Bit](https://eldraeverse.com/2022/08/17/what-a-half-bit/) - 2022-08-17
 * [Preference Magic](https://eldraeverse.com/2022/07/24/preference-magic/) - 2022-07-24
-* [Necessary Evil](https://eldraeverse.com/2022/07/23/necessary-evil/) - 2022-07-23
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
