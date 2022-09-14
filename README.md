@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [I Swear They&#8217;re Not Puns In The Original Eldraeic¹](https://eldraeverse.com/2022/09/14/i-swear-theyre-not-puns-in-the-original-eldraeic%c2%b9/) - 2022-09-14
 * [And A Desert Topping](https://eldraeverse.com/2022/09/13/and-a-desert-topping/) - 2022-09-13
 * [Smothering](https://eldraeverse.com/2022/08/28/smothering/) - 2022-08-28
 * [Feets of Arms](https://eldraeverse.com/2022/08/26/feets-of-arms/) - 2022-08-26
 * [Guns Are People](https://eldraeverse.com/2022/08/24/guns-are-people/) - 2022-08-24
-* [Undistress (3)](https://eldraeverse.com/2022/08/21/undistress-3/) - 2022-08-21
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
