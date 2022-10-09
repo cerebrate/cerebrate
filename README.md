@@ -23,7 +23,7 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent releases
 <!-- releases starts -->
-* [WSL2-Linux-Kernel 5.15.68.1-20221007-1](https://github.com/cerebrate/WSL2-Linux-Kernel/releases/tag/5.15.68.1-20221007-1) - 2022-10-07
+* [WSL2-Linux-Kernel 5.15.68.1-20221008-2](https://github.com/cerebrate/WSL2-Linux-Kernel/releases/tag/5.15.68.1-20221008-2) - 2022-10-09
 * [genie v2.5 - Say Goodnight To The Folks, Genie Edition](https://github.com/arkane-systems/genie/releases/tag/v2.5) - 2022-09-23
 * [notify_mqtt 0.1.1 - fixed for current HA version (2021.12)](https://github.com/cerebrate/notify_mqtt/releases/tag/0.1.1) - 2022-01-06
 * [jupyterlab First @cerebrate version](https://github.com/cerebrate/jupyterlab/releases/tag/v0.1) - 2021-07-28
