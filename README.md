@@ -26,8 +26,8 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 * [WSL2-Linux-Kernel 5.15.68.1-20221007-1](https://github.com/cerebrate/WSL2-Linux-Kernel/releases/tag/5.15.68.1-20221007-1) - 2022-10-07
 * [notify_mqtt 0.1.1 - fixed for current HA version (2021.12)](https://github.com/cerebrate/notify_mqtt/releases/tag/0.1.1) - 2022-01-06
 * [jupyterlab First @cerebrate version](https://github.com/cerebrate/jupyterlab/releases/tag/v0.1) - 2021-07-28
-* [genie 1.42 - mo' problems, mo' fixes](https://github.com/arkane-systems/genie/releases/tag/v1.42) - 2021-05-13
-* [mousejiggler 2.0.7](https://github.com/arkane-systems/mousejiggler/releases/tag/2.0.7) - 2021-01-23
+* [genie 1.1](https://github.com/arkane-systems/genie/releases/tag/1.1) - 2019-06-16
+* [dockercmd 0.1 initial release](https://github.com/arkane-systems/dockercmd/releases/tag/v0.1) - 2019-05-10
 <!-- releases ends -->
 </td><td valign="top">
 
