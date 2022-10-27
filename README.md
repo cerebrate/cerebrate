@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Transcendent Terminology](https://eldraeverse.com/2022/10/26/transcendent-terminology/) - 2022-10-27
 * [Non-Interference](https://eldraeverse.com/2022/10/21/non-interference/) - 2022-10-21
 * [Bad War](https://eldraeverse.com/2022/10/20/bad-war/) - 2022-10-20
 * [Got To Be Sharp](https://eldraeverse.com/2022/10/06/got-to-be-sharp/) - 2022-10-06
 * [Shield Wall to Wall-Shield](https://eldraeverse.com/2022/10/04/shield-wall-to-wall-shield/) - 2022-10-05
-* [The Naming Of Ships Is A Difficult Matter](https://eldraeverse.com/2022/10/04/the-naming-of-ships-is-a-difficult-matter/) - 2022-10-04
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
