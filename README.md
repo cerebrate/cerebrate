@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [(Not) Eldraeic Word of the Day: Oolkor Voäin](https://eldraeverse.com/2022/11/21/not-eldraeic-word-of-the-day-oolkor-voain/) - 2022-11-22
 * [Peerless (1)](https://eldraeverse.com/2022/11/20/peerless-1/) - 2022-11-21
 * [Origins](https://eldraeverse.com/2022/11/02/origins/) - 2022-11-02
 * [Or You Could Just Be Scared Of Advertising](https://eldraeverse.com/2022/10/27/or-you-could-just-be-scared-of-advertising/) - 2022-10-27
 * [Transcendent Terminology](https://eldraeverse.com/2022/10/26/transcendent-terminology/) - 2022-10-27
-* [Non-Interference](https://eldraeverse.com/2022/10/21/non-interference/) - 2022-10-21
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
