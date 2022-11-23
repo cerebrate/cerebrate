@@ -43,6 +43,8 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
 </td></tr></table>
 
+<a rel="me" href="https://social.arkane-systems.net/@cerebrate">Find me on Mastodon here!</a>
+
 The code used to make the above table is a shameless, shameless ripoff of that used in https://github.com/simonw/simonw/ .
 
 <a href="https://github.com/cerebrate/cerebrate/actions"><img src="https://github.com/cerebrate/cerebrate/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
