@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Empire Tips: December 2022](https://eldraeverse.com/2022/12/31/empire-tips-december-2022/) - 2022-12-31
 * [Going Viral](https://eldraeverse.com/2022/12/22/going-viral/) - 2022-12-23
 * [Speak Eldraeic Like a Semi-Literate Barbarian (1): Letters and Phonemes](https://eldraeverse.com/2022/12/12/speak-eldraeic-like-a-semi-literate-barbarian-1-letters-and-phonemes/) - 2022-12-12
 * [Filk: Beyond the Stars and Far Away](https://eldraeverse.com/2022/12/08/filk-beyond-the-stars-and-far-away/) - 2022-12-08
 * [Advice From Elsewhere](https://eldraeverse.com/2022/12/06/advice-from-elsewhere/) - 2022-12-06
-* [Speak Eldraeic Like a Semi-Literate Barbarian (0): Introduction](https://eldraeverse.com/2022/12/01/speak-eldraeic-like-a-semi-literate-barbarian-0-introduction/) - 2022-12-02
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
