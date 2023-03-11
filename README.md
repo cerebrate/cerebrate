@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Things To See, Places (Not) To Go (16)](https://eldraeverse.com/2023/03/11/things-to-see-places-not-to-go-16/) - 2023-03-11
 * [The Naming of Everything](https://eldraeverse.com/2023/03/08/the-naming-of-everything/) - 2023-03-09
 * [Fact Checking](https://eldraeverse.com/2023/03/04/fact-checking/) - 2023-03-04
 * [Empire Tips: January/February 2023](https://eldraeverse.com/2023/03/01/empire-tips-january-february-2023/) - 2023-03-01
 * [February&#8217;s Randoming](https://eldraeverse.com/2023/02/28/februarys-randoming/) - 2023-03-01
-* [Peerless (2)](https://eldraeverse.com/2023/02/15/peerless-2/) - 2023-02-16
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
