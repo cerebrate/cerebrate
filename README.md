@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Flexibility](https://eldraeverse.com/2023/04/08/flexibility/) - 2023-04-08
 * [Gender Transition](https://eldraeverse.com/2023/04/03/gender-transition/) - 2023-04-03
 * [Sketchy Orions](https://eldraeverse.com/2023/03/31/sketchy-orions/) - 2023-03-31
 * [Smol But Effective](https://eldraeverse.com/2023/03/30/smol-but-effective/) - 2023-03-31
 * [Quadropodia Is The&#8230;](https://eldraeverse.com/2023/03/30/quadropodia-is-the/) - 2023-03-30
-* [&#8220;Accidentally&#8221;](https://eldraeverse.com/2023/03/23/accidentally/) - 2023-03-24
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
