@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [The Lady Offshore With The 16&#8243; Guns](https://eldraeverse.com/2023/06/17/the-lady-offshore-with-the-16-guns/) - 2023-06-17
 * [On This Day](https://eldraeverse.com/2023/06/10/on-this-day/) - 2023-06-10
 * [Eldraeic Word of the Day: fanc](https://eldraeverse.com/2023/05/26/eldraeic-word-of-the-day-fanc/) - 2023-05-26
 * [Run, Bank, Run](https://eldraeverse.com/2023/05/13/run-bank-run/) - 2023-05-13
 * [Beriv&#8217;s Privateers (Filk)](https://eldraeverse.com/2023/04/18/berivs-privateers-filk/) - 2023-04-19
-* [De-cryp-tion](https://eldraeverse.com/2023/04/15/de-cryp-tion/) - 2023-04-15
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
