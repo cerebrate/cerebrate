@@ -33,11 +33,7 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
-* [Implying The Existence of a Thesis Attack](https://eldraeverse.com/2023/07/11/implying-the-existence-of-a-thesis-attack/) - 2023-07-12
-* [Meta: State of the Writer](https://eldraeverse.com/2023/07/09/meta-state-of-the-writer/) - 2023-07-10
-* [Not Cosmic, But Incomprehensible](https://eldraeverse.com/2023/07/09/not-cosmic-but-incomprehensible/) - 2023-07-10
-* [God&#8217;s Bootstraps](https://eldraeverse.com/2023/06/26/gods-bootstraps/) - 2023-06-26
-* [The Lady Offshore With The 16&#8243; Guns](https://eldraeverse.com/2023/06/17/the-lady-offshore-with-the-16-guns/) - 2023-06-17
+
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
