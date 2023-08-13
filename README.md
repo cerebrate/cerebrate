@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Eldraeic Words of the Day](https://eldraeverse.com/2023/08/13/eldraeic-words-of-the-day-2/) - 2023-08-13
 * [It&#8217;s Not Quite a Smeerp](https://eldraeverse.com/2023/07/22/its-not-quite-a-smeerp/) - 2023-07-23
 * [Implying The Existence of a Thesis Attack](https://eldraeverse.com/2023/07/11/implying-the-existence-of-a-thesis-attack/) - 2023-07-12
 * [Meta: State of the Writer](https://eldraeverse.com/2023/07/09/meta-state-of-the-writer/) - 2023-07-10
 * [Not Cosmic, But Incomprehensible](https://eldraeverse.com/2023/07/09/not-cosmic-but-incomprehensible/) - 2023-07-10
-* [God&#8217;s Bootstraps](https://eldraeverse.com/2023/06/26/gods-bootstraps/) - 2023-06-26
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
