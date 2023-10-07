@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Si Vis Pacem, Pacem Fac](https://eldraeverse.com/2023/10/07/si-vis-pacem-pacem-fac/) - 2023-10-07
 * [Dancing With Myself](https://eldraeverse.com/2023/09/26/dancing-with-myself/) - 2023-09-27
 * [Upon The Sand](https://eldraeverse.com/2023/09/10/upon-the-sand/) - 2023-09-10
 * [The Complexity of Complexity](https://eldraeverse.com/2023/09/03/the-complexity-of-complexity/) - 2023-09-03
 * [Voyage to Neverwhere](https://eldraeverse.com/2023/08/29/voyage-to-neverwhere/) - 2023-08-30
-* [Eldraeic Words of the Day](https://eldraeverse.com/2023/08/13/eldraeic-words-of-the-day-2/) - 2023-08-13
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
