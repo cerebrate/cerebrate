@@ -33,7 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
-
+* [A Ring On It](https://eldraeverse.com/2023/10/25/a-ring-on-it/) - 2023-10-26
+* [A Man Lives After His Life, But Not After His Honor](https://eldraeverse.com/2023/10/14/a-man-lives-after-his-life-but-not-after-his-honor/) - 2023-10-14
+* [Their Shafts Benight The Air](https://eldraeverse.com/2023/10/08/their-shafts-benight-the-air/) - 2023-10-09
+* [Si Vis Pacem, Pacem Fac](https://eldraeverse.com/2023/10/07/si-vis-pacem-pacem-fac/) - 2023-10-07
+* [Dancing With Myself](https://eldraeverse.com/2023/09/26/dancing-with-myself/) - 2023-09-27
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
