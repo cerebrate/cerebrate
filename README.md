@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Quintenary?](https://eldraeverse.com/2023/11/26/quintenary/) - 2023-11-26
 * [There Have Only Ever Been Four](https://eldraeverse.com/2023/11/19/there-have-only-ever-been-four/) - 2023-11-19
 * [That Is Not Dead](https://eldraeverse.com/2023/11/11/that-is-not-dead/) - 2023-11-11
 * [A Ring On It](https://eldraeverse.com/2023/10/25/a-ring-on-it/) - 2023-10-26
 * [A Man Lives After His Life, But Not After His Honor](https://eldraeverse.com/2023/10/14/a-man-lives-after-his-life-but-not-after-his-honor/) - 2023-10-14
-* [Their Shafts Benight The Air](https://eldraeverse.com/2023/10/08/their-shafts-benight-the-air/) - 2023-10-09
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
