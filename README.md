@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Moving Sideways](https://eldraeverse.com/2024/02/13/moving-sideways/) - 2024-02-14
 * [Not That Fish Story](https://eldraeverse.com/2024/01/21/not-that-fish-story/) - 2024-01-22
 * [Unmilitary Posture](https://eldraeverse.com/2024/01/15/unmilitary-posture/) - 2024-01-15
 * [(Apology &#038;) Glorious New Tractor Factory](https://eldraeverse.com/2023/12/28/apology-glorious-new-tractor-factory/) - 2023-12-28
 * [Quintenary?](https://eldraeverse.com/2023/11/26/quintenary/) - 2023-11-26
-* [There Have Only Ever Been Four](https://eldraeverse.com/2023/11/19/there-have-only-ever-been-four/) - 2023-11-19
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
