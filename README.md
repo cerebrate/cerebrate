@@ -33,11 +33,7 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
-* [Do Not Taunt](https://eldraeverse.com/2024/02/26/do-not-taunt/) - 2024-02-26
-* [Exigency](https://eldraeverse.com/2024/02/25/exigency/) - 2024-02-26
-* [Moving Sideways](https://eldraeverse.com/2024/02/13/moving-sideways/) - 2024-02-14
-* [Not That Fish Story](https://eldraeverse.com/2024/01/21/not-that-fish-story/) - 2024-01-22
-* [Unmilitary Posture](https://eldraeverse.com/2024/01/15/unmilitary-posture/) - 2024-01-15
+
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
