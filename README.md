@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Too Hard-Headed](https://eldraeverse.com/2024/05/23/too-hard-headed/) - 2024-05-23
 * [Three Paths Diverge](https://eldraeverse.com/2024/05/16/three-paths-diverge/) - 2024-05-16
 * [Paradigm Shift](https://eldraeverse.com/2024/05/11/paradigm-shift/) - 2024-05-12
 * [Fate and Chance](https://eldraeverse.com/2024/04/17/fate-and-chance/) - 2024-04-17
 * [Time-Directional](https://eldraeverse.com/2024/04/12/time-directional/) - 2024-04-12
-* [Orbs of Pondering](https://eldraeverse.com/2024/03/31/orbs-of-pondering/) - 2024-04-01
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
