@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Occlusion](https://eldraeverse.com/2024/07/30/occlusion/) - 2024-07-30
 * [Heavy Walkery](https://eldraeverse.com/2024/07/30/heavy-walkery/) - 2024-07-30
 * [Flexible Protection](https://eldraeverse.com/2024/07/29/flexible-protection/) - 2024-07-30
 * [Chop Shop](https://eldraeverse.com/2024/07/23/chop-shop/) - 2024-07-24
 * [Bright Spot](https://eldraeverse.com/2024/06/29/bright-spot/) - 2024-06-30
-* [Practical Filth](https://eldraeverse.com/2024/06/17/practical-filth/) - 2024-06-18
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
