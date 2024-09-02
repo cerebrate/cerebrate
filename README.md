@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Gordon Gekko&#8217;s Mistake](https://eldraeverse.com/2024/09/02/gordon-gekkos-mistake/) - 2024-09-02
 * [Eldraeic Modifier of the Day: boz](https://eldraeverse.com/2024/09/01/eldraeic-modifier-of-the-day-boz/) - 2024-09-01
 * [Written on the Exchange Walls](https://eldraeverse.com/2024/09/01/written-on-the-exchange-walls/) - 2024-09-01
 * [The Way of the Will](https://eldraeverse.com/2024/08/25/the-way-of-the-will/) - 2024-08-25
 * [Jargon (1/n)](https://eldraeverse.com/2024/08/18/jargon-1-n/) - 2024-08-19
-* [Zampolits](https://eldraeverse.com/2024/07/31/zampolits/) - 2024-07-31
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
