@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [On The Problem of Technobabble and Ontotechnology](https://eldraeverse.com/2024/09/08/on-the-problem-of-technobabble-and-ontotechnology/) - 2024-09-08
 * [Scientists Behaving Badly](https://eldraeverse.com/2024/09/05/scientists-behaving-badly/) - 2024-09-05
 * [Gordon Gekko&#8217;s Mistake](https://eldraeverse.com/2024/09/02/gordon-gekkos-mistake/) - 2024-09-02
 * [Eldraeic Modifier of the Day: boz](https://eldraeverse.com/2024/09/01/eldraeic-modifier-of-the-day-boz/) - 2024-09-01
 * [Written on the Exchange Walls](https://eldraeverse.com/2024/09/01/written-on-the-exchange-walls/) - 2024-09-01
-* [The Way of the Will](https://eldraeverse.com/2024/08/25/the-way-of-the-will/) - 2024-08-25
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
