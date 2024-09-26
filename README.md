@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [The Exception That Proves The Rule](https://eldraeverse.com/2024/09/26/the-exception-that-proves-the-rule/) - 2024-09-26
 * [Emissary, Speak Not](https://eldraeverse.com/2024/09/16/emissary-speak-not/) - 2024-09-16
 * [Alas, Probably Not In Python](https://eldraeverse.com/2024/09/10/alas-probably-not-in-python/) - 2024-09-10
 * [Noising The Signal](https://eldraeverse.com/2024/09/09/noising-the-signal/) - 2024-09-09
 * [On The Problem of Technobabble and Ontotechnology](https://eldraeverse.com/2024/09/08/on-the-problem-of-technobabble-and-ontotechnology/) - 2024-09-08
-* [Scientists Behaving Badly](https://eldraeverse.com/2024/09/05/scientists-behaving-badly/) - 2024-09-05
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
