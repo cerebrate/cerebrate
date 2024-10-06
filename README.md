@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Repent, Horologist! Said The Tick-Tock Man](https://eldraeverse.com/2024/10/05/repent-horologist-said-the-tick-tock-man/) - 2024-10-06
 * [Do Not Taunt Happy Fun Hole](https://eldraeverse.com/2024/09/27/do-not-taunt-happy-fun-hole/) - 2024-09-27
 * [The Exception That Proves The Rule](https://eldraeverse.com/2024/09/26/the-exception-that-proves-the-rule/) - 2024-09-26
 * [Emissary, Speak Not](https://eldraeverse.com/2024/09/16/emissary-speak-not/) - 2024-09-16
 * [Alas, Probably Not In Python](https://eldraeverse.com/2024/09/10/alas-probably-not-in-python/) - 2024-09-10
-* [Noising The Signal](https://eldraeverse.com/2024/09/09/noising-the-signal/) - 2024-09-09
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
