@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Skillsets](https://eldraeverse.com/2024/10/22/skillsets/) - 2024-10-22
 * [Speak Eldraeic Like A Semi-Literate Barbarian (3.5): Some Érélar](https://eldraeverse.com/2024/10/14/speak-eldraeic-like-a-semi-literate-barbarian-3-5-some-erelar/) - 2024-10-14
 * [Integral Annihilation](https://eldraeverse.com/2024/10/13/integral-annihilation/) - 2024-10-13
 * [Repent, Horologist! Said The Tick-Tock Man](https://eldraeverse.com/2024/10/05/repent-horologist-said-the-tick-tock-man/) - 2024-10-06
 * [Do Not Taunt Happy Fun Hole](https://eldraeverse.com/2024/09/27/do-not-taunt-happy-fun-hole/) - 2024-09-27
-* [The Exception That Proves The Rule](https://eldraeverse.com/2024/09/26/the-exception-that-proves-the-rule/) - 2024-09-26
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
