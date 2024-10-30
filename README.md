@@ -33,11 +33,7 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
-* [Spooooky](https://eldraeverse.com/2024/10/28/spooooky/) - 2024-10-28
-* [Request for Migration Suggestions](https://eldraeverse.com/2024/10/25/request-for-migration-suggestions/) - 2024-10-25
-* [Put A Ring In It](https://eldraeverse.com/2024/10/22/put-a-ring-in-it/) - 2024-10-23
-* [Skillsets](https://eldraeverse.com/2024/10/22/skillsets/) - 2024-10-22
-* [Speak Eldraeic Like A Semi-Literate Barbarian (3.5): Some Érélar](https://eldraeverse.com/2024/10/14/speak-eldraeic-like-a-semi-literate-barbarian-3-5-some-erelar/) - 2024-10-14
+
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
