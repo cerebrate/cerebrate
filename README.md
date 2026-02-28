@@ -23,17 +23,21 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent releases
 <!-- releases starts -->
+* [Calendarific 0.14.1 - [EXPERIMENTAL] Add in old pull requests](https://github.com/cerebrate/Calendarific/releases/tag/0.14.1) - 2025-12-08
 * [Eldraeverse Initial test](https://github.com/cerebrate/Eldraeverse/releases/tag/initial-test) - 2024-10-26
 * [WSL2-Linux-Kernel 5.15.68.1-20221007-1](https://github.com/cerebrate/WSL2-Linux-Kernel/releases/tag/5.15.68.1-20221007-1) - 2022-10-07
 * [notify_mqtt 0.1.1 - fixed for current HA version (2021.12)](https://github.com/cerebrate/notify_mqtt/releases/tag/0.1.1) - 2022-01-06
 * [genie 1.1](https://github.com/arkane-systems/genie/releases/tag/1.1) - 2019-06-16
-* [dockercmd 0.1 initial release](https://github.com/arkane-systems/dockercmd/releases/tag/v0.1) - 2019-05-10
 <!-- releases ends -->
 </td><td valign="top">
 
 ### Recent fiction
 <!-- fiction starts -->
-
+* [Eldraeopic](https://eldraeverse.com/2026/02/28/eldraeopic/) - Sat, 28 Feb 2026 00:55:18 GM
+* [Too Bright a View](https://eldraeverse.com/2026/02/04/too-bright-a-view/) - Wed, 04 Feb 2026 23:02:37 GM
+* [Speak Eldraeic Like a Semi-Literate Barbarian (4a): Arguments](https://eldraeverse.com/2026/01/24/speak-eldraeic-like-a-semi-literate-barbarian-4a-arguments/) - Sat, 24 Jan 2026 05:55:30 GM
+* [Eldraeic Word of the Day: níaóhál](https://eldraeverse.com/2025/12/02/eldraeic-word-of-the-day-niaohal/) - 
+* [Even Flatter Than Kansas](https://eldraeverse.com/2025/11/25/even-flatter-than-kansas/) - 
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
