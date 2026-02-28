@@ -89,7 +89,7 @@ def fetch_releases(oauth_token):
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://eldraeverse.com/feed/atom/")["entries"]
+    entries = feedparser.parse("https://eldraeverse.com/rss/")["entries"]
     return [
         {
             "title": entry["title"],
