@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Mutiny as a Service](https://eldraeverse.com/2026/03/01/mutiny-as-a-service/) - Sun, 01 Mar 2026 21:13:17 GM
 * [Eldraeopic](https://eldraeverse.com/2026/02/28/eldraeopic/) - Sat, 28 Feb 2026 00:55:18 GM
 * [Too Bright a View](https://eldraeverse.com/2026/02/04/too-bright-a-view/) - Wed, 04 Feb 2026 23:02:37 GM
 * [Speak Eldraeic Like a Semi-Literate Barbarian (4a): Arguments](https://eldraeverse.com/2026/01/24/speak-eldraeic-like-a-semi-literate-barbarian-4a-arguments/) - Sat, 24 Jan 2026 05:55:30 GM
 * [Eldraeic Word of the Day: níaóhál](https://eldraeverse.com/2025/12/02/eldraeic-word-of-the-day-niaohal/) - 
-* [Even Flatter Than Kansas](https://eldraeverse.com/2025/11/25/even-flatter-than-kansas/) - 
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
