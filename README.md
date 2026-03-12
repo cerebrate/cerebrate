@@ -23,7 +23,7 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent releases
 <!-- releases starts -->
-* [h2s 0.1 - initial trial release](https://github.com/arkane-systems/h2s/releases/tag/0.1) - 2026-03-12
+* [h2s 0.1 - initial trial version](https://github.com/arkane-systems/h2s/releases/tag/0.1) - 2026-03-12
 * [Calendarific 0.14.1 - [EXPERIMENTAL] Add in old pull requests](https://github.com/cerebrate/Calendarific/releases/tag/0.14.1) - 2025-12-08
 * [Eldraeverse Initial test](https://github.com/cerebrate/Eldraeverse/releases/tag/initial-test) - 2024-10-26
 * [notify_mqtt 0.1.1 - fixed for current HA version (2021.12)](https://github.com/cerebrate/notify_mqtt/releases/tag/0.1.1) - 2022-01-06
