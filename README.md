@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Vein and Nerve and Street](https://eldraeverse.com/2026/03/29/vein-and-nerve-and-street/) - Sun, 29 Mar 2026 03:35:44 GM
 * [Author's Note: Mutiny as a Service](https://eldraeverse.com/2026/03/10/authors-note-mutiny-as-a-service/) - 
 * [Mutiny as a Service](https://eldraeverse.com/2026/03/01/mutiny-as-a-service/) - Sun, 01 Mar 2026 21:13:17 GM
 * [Eldraeopic](https://eldraeverse.com/2026/02/28/eldraeopic/) - Sat, 28 Feb 2026 00:55:18 GM
 * [Too Bright a View](https://eldraeverse.com/2026/02/04/too-bright-a-view/) - Wed, 04 Feb 2026 23:02:37 GM
-* [Speak Eldraeic Like a Semi-Literate Barbarian (4a): Arguments](https://eldraeverse.com/2026/01/24/speak-eldraeic-like-a-semi-literate-barbarian-4a-arguments/) - Sat, 24 Jan 2026 05:55:30 GM
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
