@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [We're Everywhere](https://eldraeverse.com/2026/06/01/were-everywhere/) - Mon, 01 Jun 2026 22:05:09 GM
 * [Armor Beast](https://eldraeverse.com/2026/05/29/armor-beast/) - Fri, 29 May 2026 04:35:51 GM
 * [Site Improvements & Featured Posts](https://eldraeverse.com/2026/04/28/site-improvements-featured-posts/) - 
 * [With An n-Foot Pole](https://eldraeverse.com/2026/04/26/with-an-n-foot-pole/) - Sun, 26 Apr 2026 04:42:48 GM
 * [Quotables II](https://eldraeverse.com/2026/04/14/quotables-ii/) - 
-* [Vein and Nerve and Street](https://eldraeverse.com/2026/03/29/vein-and-nerve-and-street/) - Sun, 29 Mar 2026 03:35:44 GM
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
