@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Undistress (4)](https://eldraeverse.com/2026/07/31/undistress-4/) - Fri, 31 Jul 2026 23:53:25 GM
 * [Data Snek](https://eldraeverse.com/2026/07/31/data-snek/) - Fri, 31 Jul 2026 04:31:04 GM
 * [Letter of Last Resort](https://eldraeverse.com/2026/07/11/letter-of-last-resort/) - Sat, 11 Jul 2026 20:03:36 GM
 * [We're Everywhere](https://eldraeverse.com/2026/06/01/were-everywhere/) - Mon, 01 Jun 2026 22:05:09 GM
 * [Armor Beast](https://eldraeverse.com/2026/05/29/armor-beast/) - Fri, 29 May 2026 04:35:51 GM
-* [Site Improvements & Featured Posts](https://eldraeverse.com/2026/04/28/site-improvements-featured-posts/) - 
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
