@@ -25,7 +25,7 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 <!-- releases starts -->
 * [WSL-Kernel-Configuration 7.0.0-2026060301-microsoft-custom-WSL2](https://github.com/cerebrate/WSL-Kernel-Configuration/releases/tag/7.0.0-2026060301-microsoft-custom-WSL2) - 2026-06-04
 * [h2s 0.1 - initial trial version](https://github.com/arkane-systems/h2s/releases/tag/0.1) - 2026-03-12
-* [Calendarific 0.14.1 - [EXPERIMENTAL] Add in old pull requests](https://github.com/cerebrate/Calendarific/releases/tag/0.14.1) - 2025-12-08
+* [ha-calendarific 0.14.1 - [EXPERIMENTAL] Add in old pull requests](https://github.com/arkane-systems/ha-calendarific/releases/tag/0.14.1) - 2025-12-08
 * [Eldraeverse Initial test](https://github.com/cerebrate/Eldraeverse/releases/tag/initial-test) - 2024-10-26
 * [notify_mqtt 0.1.1 - fixed for current HA version (2021.12)](https://github.com/arkane-systems/notify_mqtt/releases/tag/0.1.1) - 2022-01-06
 <!-- releases ends -->
