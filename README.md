@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [Daiségei](https://eldraeverse.com/2026/10/12/daisegei/) - Mon, 12 Oct 2026 23:21:46 GM
 * [A World For Everypony](https://eldraeverse.com/2026/10/03/a-world-for-everypony/) - Sat, 03 Oct 2026 22:28:20 GM
 * [What A Difference A Syllable Makes](https://eldraeverse.com/2026/09/16/what-a-difference-a-syllable-makes/) - Wed, 16 Sep 2026 21:25:00 GM
 * [Legal Courtesies](https://eldraeverse.com/2026/09/15/legal-courtesies/) - 
 * [Brane Stopped Play](https://eldraeverse.com/2026/08/27/brane-stopped-play/) - 
-* [Not Even Their Final Form](https://eldraeverse.com/2026/08/24/not-even-their-final-form/) - Mon, 24 Aug 2026 00:58:43 GM
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
