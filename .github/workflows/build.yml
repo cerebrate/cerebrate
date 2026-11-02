@@ -7,7 +7,7 @@ on:
       - README.md
   workflow_dispatch:
   schedule:
-    - cron: '32 * * * *'
+    - cron: '32 */6 * * *'
 
 # The job commits the regenerated README back to the repo.
 permissions:
