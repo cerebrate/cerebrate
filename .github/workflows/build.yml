@@ -2,43 +2,49 @@ name: Build README
 
 on:
   push:
+    branches: [master]
+    paths-ignore:
+      - README.md
   workflow_dispatch:
   schedule:
-    - cron:  '32 * * * *'
+    - cron: '32 * * * *'
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+# The job commits the regenerated README back to the repo.
+permissions:
+  contents: write
+
+# Never let two runs race to push the README.
+concurrency:
+  group: build-readme
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     - name: Check out repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v5
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v6
       with:
-        python-version: 3.14
-    - uses: actions/cache@v4
-      name: Configure pip caching
-      with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
+        python-version: '3.14'
+        cache: pip
+        cache-dependency-path: requirements.txt
     - name: Install Python dependencies
-      run: |
-        python -m pip install -r requirements.txt
+      run: python -m pip install -r requirements.txt
     - name: Update README
       env:
         CEREBRATE_TOKEN: ${{ secrets.CEREBRATE_TOKEN }}
-      run: |-
-        python build_readme.py
-        cat README.md
+      run: python build_readme.py
     - name: Commit and push if README changed
       run: |-
         git diff
-        git config --global user.email "readme-bot@arkane-systems.net"
-        git config --global user.name "README-bot"
-        git diff --quiet || (git add README.md && git commit -m "Updated README")
-        git push
+        git config user.email "readme-bot@arkane-systems.net"
+        git config user.name "README-bot"
+        if ! git diff --quiet; then
+          git add README.md
+          git commit -m "Updated README"
+          git push
+        fi

@@ -1,13 +1,11 @@
-from python_graphql_client import GraphqlClient
 import feedparser
 import httpx
-import json
 import pathlib
 import re
 import os
 
 root = pathlib.Path(__file__).parent.resolve()
-client = GraphqlClient(endpoint="https://api.github.com/graphql")
+GRAPHQL_ENDPOINT = "https://api.github.com/graphql"
 
 
 TOKEN = os.environ.get("CEREBRATE_TOKEN", "")
@@ -58,13 +56,16 @@ def fetch_releases(oauth_token):
     after_cursor = None
 
     while has_next_page:
-        data = client.execute(
-            query=make_query(after_cursor),
+        response = httpx.post(
+            GRAPHQL_ENDPOINT,
+            json={"query": make_query(after_cursor)},
             headers={"Authorization": "Bearer {}".format(oauth_token)},
+            timeout=30,
         )
-        print()
-        print(json.dumps(data, indent=4))
-        print()
+        response.raise_for_status()
+        data = response.json()
+        if data.get("errors"):
+            raise RuntimeError("GitHub GraphQL errors: {}".format(data["errors"]))
         for repo in data["data"]["viewer"]["repositories"]["nodes"]:
             if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
                 repos.append(repo)
@@ -113,10 +114,15 @@ if __name__ == "__main__":
     readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "releases", md)
 
+    # Leave the existing section alone if the feed is unreachable or empty,
+    # rather than blanking it out.
     entries = fetch_blog_entries()[:5]
-    entries_md = "\n".join(
-        ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
-    )
-    rewritten = replace_chunk(rewritten, "fiction", entries_md)
+    if entries:
+        entries_md = "\n".join(
+            ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
+        )
+        rewritten = replace_chunk(rewritten, "fiction", entries_md)
+    else:
+        print("Warning: no blog entries fetched; leaving fiction section unchanged")
 
     readme.open("w").write(rewritten)
