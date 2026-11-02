@@ -33,11 +33,11 @@ I hope you enjoy whichever you came here for! Incidentally, I also do freelance 
 
 ### Recent fiction
 <!-- fiction starts -->
+* [(1/15) The Imperial Household](https://eldraeverse.com/2026/11/01/1-15-the-imperial-household/) - Sun, 01 Nov 2026 04:29:33 GM
+* [Black Mountain](https://eldraeverse.com/2026/10/31/black-mountain/) - Sat, 31 Oct 2026 03:50:05 GM
+* [Eldraeic Word of the Day: raitharzik](https://eldraeverse.com/2026/10/30/eldraeic-word-of-the-day-raitharzik/) - Fri, 30 Oct 2026 23:51:26 GM
 * [Daiségei](https://eldraeverse.com/2026/10/12/daisegei/) - Mon, 12 Oct 2026 23:21:46 GM
 * [A World For Everypony](https://eldraeverse.com/2026/10/03/a-world-for-everypony/) - Sat, 03 Oct 2026 22:28:20 GM
-* [What A Difference A Syllable Makes](https://eldraeverse.com/2026/09/16/what-a-difference-a-syllable-makes/) - Wed, 16 Sep 2026 21:25:00 GM
-* [Legal Courtesies](https://eldraeverse.com/2026/09/15/legal-courtesies/) - 
-* [Brane Stopped Play](https://eldraeverse.com/2026/08/27/brane-stopped-play/) - 
 <!-- fiction ends -->
 
 More fiction at [eldraeverse.com](https://eldraeverse.com/)
